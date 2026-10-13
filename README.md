@@ -1,7 +1,7 @@
 # Tugas Week 6: Deteksi Gelombang PQRST pada Sinyal ECG Menggunakan DWT
 
 ## Deskripsi
-Program ini mendeteksi gelombang P, Q, R, S, dan T pada sinyal elektrokardiogram (ECG) menggunakan **Discrete Wavelet Transform (DWT)** dan aturan deteksi berbasis amplitudo serta interval waktu.
+`Program Week 6_PQRST dengan DWT.ipynb` Program ini mendeteksi gelombang P, Q, R, S, dan T pada sinyal elektrokardiogram (ECG) menggunakan **Discrete Wavelet Transform (DWT)** dan aturan deteksi berbasis amplitudo serta interval waktu.
 
 Program dijalankan menggunakan Python di Google Colab dan mengambil dataset langsung dari Kaggle melalui KaggleHub.
 
