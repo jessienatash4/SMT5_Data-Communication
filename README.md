@@ -1,5 +1,3 @@
-# SMT5_Data-Communication
-
 # Tugas Week 6: Deteksi Gelombang PQRST pada Sinyal ECG Menggunakan DWT
 
 ## Deskripsi
